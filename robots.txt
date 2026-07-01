@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atlantapestcontrolco.com/sitemap.xml
